@@ -8,8 +8,8 @@
 
 | 문제                                                         | 깃 코드 링크                                                 | 백준 코드 링크                                  | 난이도 |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | ------ |
-| [원판돌리기 [17822]](https://www.acmicpc.net/problem/17822)  | <a href="/백준/src/Baekjoon_17822_원판돌리기/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20100332) | Gold 3 |
-| [주사위 윷놀이 [17825]](https://www.acmicpc.net/problem/17825) | <a href="/백준/src/Baekjoon_17825_주사위윷놀이/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20134667) | Gold 2 |
+| [원판돌리기 [17822]](https://www.acmicpc.net/problem/17822)  | <a href="/백준/src/BOJ_17822_원판돌리기/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20100332) | Gold 3 |
+| [주사위 윷놀이 [17825]](https://www.acmicpc.net/problem/17825) | <a href="/백준/src/BOJ_17825_주사위윷놀이/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20134667) | Gold 2 |
 
 
 

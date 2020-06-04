@@ -1,4 +1,4 @@
-package Baekjoon_17825_주사위윷놀이;
+package BOJ_17825_주사위윷놀이;
 
 import java.util.*;
 import java.io.*;

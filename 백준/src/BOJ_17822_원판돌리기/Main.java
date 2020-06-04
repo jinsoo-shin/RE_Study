@@ -1,4 +1,4 @@
-package Baekjoon_17822_원판돌리기;
+package BOJ_17822_원판돌리기;
 
 import java.io.*;
 import java.util.*;
