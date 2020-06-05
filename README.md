@@ -14,7 +14,8 @@
 | [불![4179]](https://www.acmicpc.net/problem/4179)            | <a href="/백준/src/BOJ_4179_불/Main.java">코드</a>           | [코드](https://www.acmicpc.net/source/20194224) | Gold 3 | 2020.06.04 |
 | [다리 만들기2 [17472]](https://www.acmicpc.net/problem/17472) | <a href="/백준/src/BOJ_17472_다리만들기2/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20208313) | Gold 3 | 2020.06.05 |
 | [게리맨더링 [17471]](https://www.acmicpc.net/problem/17471)  | <a href="/백준/src/BOJ_17471_게리맨더링/Main.java">코드</a>  | [코드](https://www.acmicpc.net/source/20210220) | Gold 5 | 2020.06.05 |
-| [게리맨더링 [17135]](https://www.acmicpc.net/problem/17135)  | <a href="/백준/src/BOJ_17135_캐슬디펜스/Main.java">코드</a>  | [코드](https://www.acmicpc.net/source/20213300) | Gold 4 | 2020.06.05 |
+| [캐슬디펜스 [17135]](https://www.acmicpc.net/problem/17135)  | <a href="/백준/src/BOJ_17135_캐슬디펜스/Main.java">코드</a>  | [코드](https://www.acmicpc.net/source/20213300) | Gold 4 | 2020.06.05 |
+| [색종이붙이기 [17136]](https://www.acmicpc.net/problem/17136) | <a href="/백준/src/BOJ_17136_색종이붙이기;/Main.java">코드</a> | [코드](https://www.acmicpc.net/source/20217069) | Gold 3 | 2020.06.05 |
 
  
 
