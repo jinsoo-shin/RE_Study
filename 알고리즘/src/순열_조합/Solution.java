@@ -21,7 +21,7 @@ public class Solution {
 			arr[i] = i;
 		}
 		permutation(arr, 0);
-		System.out.println("중복 순열");
+		System.out.println("----------중복 순열----------");
 		List<Integer> list = new LinkedList<>();
 		duplicate_permutation(list, 0);
 	}

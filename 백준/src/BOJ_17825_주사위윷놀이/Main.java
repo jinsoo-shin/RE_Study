@@ -61,9 +61,6 @@ public class Main {
 
 	static void comb(int[] arr, int idx, int num) {
 		if (idx == arr.length) {
-			// System.out.println("----------------------------------------------");
-			// System.out.println(Arrays.toString(arr));
-			// 여기서 calc로 넘기기
 			calc(arr);
 			return;
 		}
