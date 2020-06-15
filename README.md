@@ -4,7 +4,7 @@
 
 
 
-## 백준
+## 백준 [Gold 이상 문제]
 
 | 문제                                                         | 깃 코드 링크                                                 | 백준 코드 링크                                  | 난이도 | 날짜       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- | ------ | ---------- |
@@ -19,14 +19,35 @@
 
 
 
-##  SW Expert Academy
+## 백준 [내가 못 푼 문제 정복하기]
+
+ https://www.acmicpc.net/problem/unsolved 
+
+| 문제 번호 | 문제 이름   | 날짜       |
+| :-------- | ----------- | ---------- |
+| 2557      |             |            |
+| 10718     |             |            |
+| 2438      |             |            |
+| 10998     |             |            |
+| 2741      |             |            |
+| 10869     |             |            |
+| 2739      |             |            |
+| 1008      |             |            |
+| 9498      |             |            |
+| 1463      | 1로 만들기  |            |
+| 2750      | 수 정렬하기 |            |
+| 1978      | 소수 찾기   | 2020-06-15 |
+|           |             |            |
+|           |             |            |
+
+##  
 
 | 문제                                                         | 깃 코드 링크                                                 |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [5644. [모의 SW 역량테스트] 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) | <a href="/swea/src/swea_모의_무선충전/Solution.java">코드</a> |      |
 | [5656. [모의 SW 역량테스트] 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&categoryId=AWXRQm6qfL0DFAUo&categoryType=CODE) | <a href="/swea/src/swea_모의_벽돌깨기/Solution.java">코드</a> |      |
 | [2112. [모의 SW 역량테스트] 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&categoryId=AV5V1SYKAaUDFAWu&categoryType=CODE) | <a href="/swea/src/swea_모의_무선충전/Solution.java">코드</a> |      |
-| [1953. [모의 SW 역량테스트] 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE) | <a href="/swea/src/swea_모의_무선충전/Solution.java">코드</a> |      |
+| [1953. [모의 SW 역량테스트] 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE) | <a href="/swea/src/swea_모의_탈주범검거/Solution.java">코드</a> |      |
 | [2117. [모의 SW 역량테스트] 홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE) | <a href="/swea/src/swea_모의_무선충전/Solution.java">코드</a> |      |
 |                                                              |                                                              |      |
 
